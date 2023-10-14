@@ -24,5 +24,8 @@ Software per monitorare uno o più host di rete, sia privati che pubblici, nel c
 ## Author
 Davide D'Amico - Pescara (https://www.novasoftonline.net)
 
+## Collaboratore
+Pasquale di Caprio
+
 ## Grazie per aver provato il mio software
 Riscontri qualche problema? Apri un [Caso](https://github.com/Supersqualo/ipmon/issues).
